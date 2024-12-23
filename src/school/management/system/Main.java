@@ -1,7 +1,7 @@
 package school.management.system;
 import java.util.*;
-import java.lang.*;
-public class Main {
+public class Main
+ {
 	public static void main(String args[]) {
 		Teacher lizzy=new Teacher(1,"Lizzy",1500);
 		Teacher tom=new Teacher(2,"Tom",1200);
