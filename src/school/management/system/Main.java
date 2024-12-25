@@ -38,8 +38,6 @@ public class Main
 		tom.receiveSalary(tom.getsalary());
 		System.out.println("Total Money spent by the school: "+ZPHS.getTotalMoneySpent());
 		riya.receiveSalary(riya.getsalary());
-		System.out.println(sreeya);
-		System.out.println(lizzy);
 		System.out.println("\n"+riya);
 	}
 }
